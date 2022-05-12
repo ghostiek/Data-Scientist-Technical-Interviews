@@ -1,2 +1,2 @@
-# InterviewProjects
-Repo of all Interview Projects I completed
+# Interview Projects
+Archive of all Technical Interviews I completed.
